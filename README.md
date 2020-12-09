@@ -10,7 +10,7 @@
 ## What is this
 A Node.JS based API that also functions as content delivery. It's main purpose is to provide authentication/ACL and also to deliver content like websites and application/* data
 
-This is going to be used for an application I'm currently making.
+*An API with authentication backed with file system storage*
 
 ## Setup
 [View deployment instructions](https://github.com/dudeisbrendan03/RESTful-api/blob/master/DEPLOY.md)
@@ -32,12 +32,12 @@ To clear expired tokens while the server is running run:
 `NODE_ENV=tokClear node .`
 
 ### Errors
-Learn about error and their meaning [here](https://github.com/dudeisbrendan/RESTful-api/blob/master/.github/ERRORS.md)
+Learn about errors and their meanings [here](https://github.com/dudeisbrendan03/RESTful-api/blob/master/.github/ERRORS.md)
 
-## Dependancies
+## Dependencies
 None(ish)!
 
 We have no imports, no need for a package.json or any dependacy management. But this *DOES* require Node 8.*.
 
 ### Credits
-[Credits file](https://github.com/dudeisbrendan/RESTful-api/blob/master/.github/CREDITS.md)
+[Credits file](https://github.com/dudeisbrendan03/RESTful-api/blob/master/.github/CREDITS.md)
